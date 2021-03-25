@@ -1,1 +1,3 @@
-terraform/01-aws-creds.sh
+terraform/.terraform*
+terraform/terraform*
+terraform/creds.tf

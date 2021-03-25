@@ -1,3 +1,0 @@
-terraform {
-    provider "aws" {}
-}
