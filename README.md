@@ -1,3 +1,3 @@
 # serverless-aws
 
-![alt text](https://imgur.com/a/f9DIjDm)
+![alt text](https://i.imgur.com/SJx7yUh.png)
