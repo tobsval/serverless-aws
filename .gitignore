@@ -1,3 +1,9 @@
+# Local .terraform directories
 terraform/.terraform*
-terraform/terraform*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+# Delicate files not to be committed
 terraform/variables.tf

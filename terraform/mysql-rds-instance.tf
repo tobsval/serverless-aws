@@ -7,6 +7,6 @@ resource "aws_db_instance" "tasks-db" {
     password             = "<pwd-here>"
     engine_version       = "8.0"
     instance_class       = "db.t2.micro"
-    allocated_storage    = 10 #No need to grow storage after for simple PoC
+    allocated_storage    = 10 #No need to grow storage further for simple PoC
     skip_final_snapshot  = true
 }
